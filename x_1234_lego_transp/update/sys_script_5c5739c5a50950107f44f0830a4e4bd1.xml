@@ -17,7 +17,7 @@
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>Lego Test Message</p>]]></message>
+        <message><![CDATA[<p>Lego Test Message.</p>]]></message>
         <name>lego test</name>
         <order>100</order>
         <priority>100</priority>
@@ -38,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5c5739c5a50950107f44f0830a4e4bd1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>lego test</sys_name>
         <sys_overrides/>
         <sys_package display_value="Lego Transporter" source="x_1234_lego_transp">51b57105a50950107f44f0830a4e4b66</sys_package>
@@ -46,7 +46,7 @@
         <sys_scope display_value="Lego Transporter">51b57105a50950107f44f0830a4e4b66</sys_scope>
         <sys_update_name>sys_script_5c5739c5a50950107f44f0830a4e4bd1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-26 11:28:19</sys_updated_on>
+        <sys_updated_on>2020-05-26 13:28:22</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
